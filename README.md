@@ -19,4 +19,4 @@
 Настройка модуля:
   - index.php           $api->setCreItemId  необходимо вставить ИД Кассы
   - core/QKSConfig.php  $USERVER_API_KEY    устанавливаем X-API-KEY.
-  Модуль готов к работе.
+  Модуль готов к работе. 
