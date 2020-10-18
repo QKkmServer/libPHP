@@ -32,7 +32,6 @@ define('feed', 'Протяжка ленты');
 //define('cashOut', 'Инкассация (забор наличных денег из денежного ящика)');
 //define('closeSession','Пример закрытия смены (Отчет с гашением, Z-отчет)');
 
-
 function runAndWait(){
     global $api;
     $taskId = $api->addTaskToServerQueue(); // 56c7df60-7d87-433b-b89a-8933b454e8ed
